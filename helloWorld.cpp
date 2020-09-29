@@ -8,5 +8,10 @@ int main()
 {
     cout << "Hello World! END
     
-    return 0;
+        
+    if(1)
+    {
+        cout << END
+    }
+    return -1;
 }
