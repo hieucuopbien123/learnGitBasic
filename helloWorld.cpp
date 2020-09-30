@@ -10,5 +10,10 @@ int main()
         
     cout << "hello world END
     
-    return 0;
+        
+    if(1)
+    {
+        cout << END
+    }
+    return -1;
 }
